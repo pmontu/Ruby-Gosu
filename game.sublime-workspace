@@ -1,0 +1,655 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"puz",
+				"puz1"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"M",
+				"milliseconds"
+			],
+			[
+				"Co",
+				"Color"
+			],
+			[
+				"FLY",
+				"FLY_TIMES"
+			],
+			[
+				"jo",
+				"journey"
+			],
+			[
+				"journ",
+				"journey_num"
+			],
+			[
+				"jour",
+				"journey_at"
+			],
+			[
+				"journe",
+				"journey_frame"
+			],
+			[
+				"Ri",
+				"RIGHT_BOTTOM"
+			],
+			[
+				"LEF",
+				"LEFT_BOTTOM"
+			],
+			[
+				"sit",
+				"sit_frame"
+			],
+			[
+				"Sit",
+				"SIT"
+			],
+			[
+				"end",
+				"end_x"
+			],
+			[
+				"star",
+				"start_y"
+			],
+			[
+				"start",
+				"start_x"
+			],
+			[
+				"end_",
+				"end_y"
+			],
+			[
+				"desti",
+				"destination_x"
+			],
+			[
+				"des",
+				"destination_y"
+			],
+			[
+				"destin",
+				"destination_y"
+			],
+			[
+				"flowe",
+				"flower"
+			],
+			[
+				"destinati",
+				"destination_x"
+			],
+			[
+				"Right",
+				"RIGHT_BOTTOM"
+			],
+			[
+				"Rig",
+				"RIGHT_TOP"
+			],
+			[
+				"Fac",
+				"FacultyContract"
+			],
+			[
+				"rece",
+				"receipt"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"cont",
+				"contractId"
+			],
+			[
+				"con",
+				"contractId"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lea",
+				"leavingdate"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"leav",
+				"leavingdate"
+			],
+			[
+				"course",
+				"courseId"
+			],
+			[
+				"fa",
+				"faculty"
+			],
+			[
+				"Fa",
+				"FacultyContract__Faculty"
+			],
+			[
+				"Sub",
+				"SubjectId"
+			],
+			[
+				"Faculty",
+				"FacultyContract"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"facultycontr",
+				"facultycontract"
+			],
+			[
+				"sort",
+				"sortByColumn"
+			],
+			[
+				"sortBy",
+				"sortByColumn"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ag",
+				"agreements"
+			],
+			[
+				"filt",
+				"filter"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"join",
+				"joiningdate"
+			],
+			[
+				"Displ",
+				"DisplayModeEnum"
+			],
+			[
+				"Displa",
+				"DisplayModeEnum"
+			],
+			[
+				"institute",
+				"instituteFactory"
+			],
+			[
+				"seria",
+				"serialize"
+			],
+			[
+				"actvit",
+				"activity"
+			],
+			[
+				"data",
+				"data_json"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"__",
+				"__dict__"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"HY",
+				"HYGIENE"
+			],
+			[
+				"error",
+				"errorpack"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "game.rb",
+			"settings":
+			{
+				"buffer_size": 793,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/game.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/walk/game.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/walk/	def buttonup? Gosu",
+		"/Users/pmontu/Documents/butterfly test.txt",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/test.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/score.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/butterfly.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/.gitignore",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/leaf.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/time.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/flower.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/spline.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/gosu.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/interpolation.rb",
+		"/Users/pmontu/.rvm/gems/ruby-2.0.0-p247/gems/tween-0.1.2/examples/demo.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/Butterfly/media/B-martin87_butterfly.png",
+		"/Users/pmontu/.rvm/gems/ruby-2.0.0-p247/gems/tween-0.1/examples/demo.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/drawupdate.rb",
+		"/Users/pmontu/Programs/Ruby Gosu/helloworld.rb",
+		"/Users/pmontu/Programs/django/VLCTI/.gitignore",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/contracts/contractAddController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/students/studentAddController.js",
+		"/Users/pmontu/Programs/django/VLCTI/VLCTI/settings.py",
+		"/Users/pmontu/Programs/django/Patient_Database/static/js/ui-bootstrap-tpls-0.11.0.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/css/vlcti.css",
+		"/Users/pmontu/Programs/django/VLCTI/VLCTI/wsgi.py",
+		"/Users/pmontu/Programs/django/VLCTI/institute/urls.py",
+		"/Users/pmontu/Programs/django/VLCTI/VLCTI/urls.py",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/faculties/faculties.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/faculties/facultyAgreements.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/agreements/agreementEdit.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/faculties/facultyEdit.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/payments/paymentAdd.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/payments/paymentAddController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/students/studentContracts.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/contracts/contractEdit.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/students/studentEdit.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/students/students.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/payments/paymentEdit.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/payments/paymentEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/agreements/agreementPayments.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/agreements/agreementPaymentsController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/contracts/contractReceipts.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/contracts/contractReceiptsController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/receipts/receiptEdit.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/receipts/receiptEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/receipts/receiptAddController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/receipts/receiptAdd.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/faculties/facultiesController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/contracts/contractAdd.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/contracts/contractSubjects.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/contracts/contractSubjectsController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/subjects/subjectEdit.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/subjects/subjectAddController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/subjects/subjectAdd.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/subjects/subjectEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/groups/groupAddController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/groups/groupAdd.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/agreements/agreementGroups.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/groups/groupEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/groups/groupEdit.html",
+		"/Users/pmontu/Desktop/VLCTI",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/students/studentAdd.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/app.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/agreements/agreementAddController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/agreements/agreementAdd.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/faculties/facultyAddController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/users/userLogout.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/users/userLogin.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/navigation/navbarController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/navigation/navbar.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/faculties/facultyAdd.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/students/studentsController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/users/userLogoutController.js",
+		"/Users/pmontu/Programs/django/VLCTI/institute/views.py",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/users/userLoginController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/students/studentEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/users/loginController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/users/login.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/agreements/agreementGroupsController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/agreements/agreementEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/contracts/contractEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/faculties/facultyAgreementsController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/students/studentContractsController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/faculties/facultyEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/contracts/contractClasses.html",
+		"/Users/pmontu/Programs/django/VLCTI/institute/admin.py",
+		"/Users/pmontu/Programs/django/VLCTI/script.py",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/contracts/contractClassesController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/contracts/studentEditController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/index.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/untitled",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/students/studentDetails.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/app/controllers/students/studentDetailsController.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/contract-search.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/contract-add.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/student-details.html",
+		"/Users/pmontu/Programs/django/VLCTI/institute/models.py",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/vlcti.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/student-search.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/contract-details.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/student-add.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/link.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/test.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/student.html",
+		"/Users/pmontu/Programs/django/VLCTI/readme.md",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/course-select.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/students.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/js/ui-bootstrap-tpls-0.11.0.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/views/student-insert-form.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/test/js/vlcti.js",
+		"/Users/pmontu/Programs/django/VLCTI/static/test/views/students.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/test/index.html",
+		"/Users/pmontu/Programs/django/VLCTI/static/test/css/vlcti.css",
+		"/Users/pmontu/Programs/django/VLCTI/static/test/css/vlcim.css",
+		"/Users/pmontu/Programs/django/VLCTI/static/test/views/student-search.html",
+		"/Users/pmontu/Programs/django/VLCTI/institute/script-insert.py",
+		"/Users/pmontu/Programs/django/VLCTI/static/test/views/contract-add.html",
+		"/Users/pmontu/Documents/warc cv.txt",
+		"/Users/pmontu/Programs/django/ALOG/static/index.html",
+		"/Users/pmontu/Programs/django/ALOG/static/views/view.html",
+		"/Users/pmontu/Programs/django/ALOG/static/views/graph.html",
+		"/Users/pmontu/Programs/django/ALOG/activity/views.py",
+		"/Users/pmontu/Programs/django/ALOG/static/index3.html",
+		"/Users/pmontu/Programs/django/ALOG/activity/models.py",
+		"/Users/pmontu/Programs/django/ALOG/static/views/add.html",
+		"/Users/pmontu/Programs/django/ALOG/static/views/insert.html",
+		"/Users/pmontu/Programs/django/ALOG/static/test3/test.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"score",
+			"FLY_TIMES",
+			"new_fly",
+			"getLocations",
+			"@@QUADRANT",
+			"@@QUADRANT\\[\"(\\w*)\"\\]",
+			"@@QUADRANT\\[\"\\w*\"\\]",
+			"@@QUADRANT",
+			"),",
+			"sit_user_response",
+			"... ",
+			">>> ",
+			"group_list",
+			"raise",
+			"QueryDict",
+			"join",
+			"Group",
+			"%H",
+			"getFilters",
+			"filtersChanged",
+			"search",
+			"sortBycolumn",
+			"search.orderBy",
+			"stage",
+			"contract",
+			"validStudentId",
+			"studentId",
+			"col-sm-5",
+			"col-sm-2",
+			"student_update",
+			"student.",
+			"column",
+			"href=\"#",
+			"a href",
+			"class",
+			"Link",
+			"link",
+			"Link",
+			"if s.enquiredstartdate",
+			"\"col-sm-6\"",
+			"\"col-sm-3\"",
+			" form-group",
+			" for=\"formGroupInputSmall\"",
+			"user.",
+			"console.",
+			"user",
+			"selected",
+			"action",
+			"reset",
+			"Package",
+			"reload",
+			"paginationController",
+			"refreshStudents\nrefreshStudents\nrefreshStudents\nrefreshStudents\nrefreshStudents",
+			"activityFactory\nactivityFactory\nviewGridFactory",
+			"unique",
+			"else",
+			"static",
+			"=,",
+			"Atype",
+			"php",
+			"$",
+			"forms",
+			"RegisterPatientForm",
+			"patientrecords",
+			" i ",
+			"mysql_config.path = \"mysql_config\"",
+			"mysql_config.path",
+			"</b>",
+			"<b>",
+			"js",
+			"parse_shortcodes",
+			"shortcode_tags",
+			"function add_shortcode",
+			"add_shortcode",
+			"function remove_all_shortcodes()",
+			"remove_all_shortcodes()",
+			"function shortcode_hack",
+			"shortcode_hack",
+			"parse_shortcodes",
+			"\n		else if (strcmp(\"3\",ch)==0){\n			printf(\"enter key:\");\n			int key;\n			scanf(\"%d\",&key);\n			int pos = -1;\n			struct node* node = header.next;\n			int i=0;\n			while(node!=NULL){\n				if(node->data==key){\n					pos = i;\n					break;\n				}\n				node = node->next;\n				i += 1;\n			}\n			printf(\"number at position:%d\",pos);\n		}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"@fly_times",
+			"new_journey",
+			"make_locations",
+			"Quadrant::list",
+			"Quadrant::$1",
+			"$1",
+			"\\1",
+			"user_responded",
+			"",
+			"getGroups",
+			"filterChanged",
+			"faculty",
+			"validFacultyId",
+			"facultyId",
+			"agreementId",
+			"col-sm-9",
+			"col-sm-3",
+			"faculty.",
+			"SortByColumnEnum",
+			"ubject",
+			"subject",
+			"Subject",
+			"\"col-sm-5\"",
+			"\"col-sm-6\"",
+			" form-group-lg",
+			"",
+			"student.",
+			"student",
+			",",
+			" I ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "game.rb",
+					"settings":
+					{
+						"buffer_size": 793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}

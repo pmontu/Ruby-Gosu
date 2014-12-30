@@ -10,21 +10,41 @@ class MyWindow < Gosu::Window
 		@player = Player.new(self)
 	end
 
+	def update
+		if button_down? Gosu::KbRight
+			@player.go_right
+		elsif button_down? Gosu::KbLeft
+			@player.go_left
+		elsif button_down? Gosu::KbEscape
+			self.exit
+		end
+	end
+
 	def draw
 		@background_image.draw(0,0,0)
 		@wood_bamboo_image.draw(0,0,0)
 		@grass.draw(0,0,0)
 		@player.draw
 	end
+
 end
 
 class Player
+
 
 	def initialize(window)
 		@window = window
 		@img = Gosu::Image.new(@window,'media/fireboy.png',true)
 		@x = 100
 		@y = 360
+	end
+
+	def go_right
+		@x += 10
+	end
+
+	def go_left
+		@x -= 10
 	end
 
 	def draw
